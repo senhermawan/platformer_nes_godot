@@ -1,2 +1,2 @@
 # Platformer Nes
-## written to godot
+## written in godot
